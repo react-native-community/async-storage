@@ -8,7 +8,7 @@
  * @flow
  */
 
-import merge from 'deep-assign';
+import merge from 'lodash.merge';
 
 const mergeLocalStorageItem = (key, value) => {
   const oldValue = window.localStorage.getItem(key);

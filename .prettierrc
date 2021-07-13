@@ -4,5 +4,6 @@
   "trailingComma": "all",
   "bracketSpacing": false,
   "jsxBracketSameLine": true,
-  "parser": "flow"
+  "parser": "flow",
+  "endOfLine": "auto"
 }

@@ -61,7 +61,7 @@
     "test:e2e:macos": "scripts/macos_e2e.sh 'test'"
   },
   "dependencies": {
-    "deep-assign": "^3.0.0"
+    "lodash.merge": "^4.6.2"
   },
   "peerDependencies": {
     "react-native": "^0.60.6 || ^0.61.5 || ^0.62.2 || ^0.63.2 || ^0.64.0 || 1000.0.0"
